@@ -2,7 +2,6 @@
 
 A complete, responsive fintech dashboard built with React.js that provides users with a comprehensive financial management experience. PaySphere offers balance tracking, payment management, transaction analytics, and personalized settings in a modern, intuitive interface.
 
-![PaySphere Dashboard](https://via.placeholder.com/800x400/10b981/ffffff?text=PaySphere+Dashboard)
 
 ## 🌟 Features
 
